@@ -70,7 +70,7 @@ Resultado suma: 15
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/Tarea3.0.git
+git clone https://github.com/Alexander738022/Tarea3.0.git
 cd Tarea3.0
 ```
 
@@ -184,7 +184,7 @@ Para la entrega se incluye:
 
 **Marcos Alexander Villalva Cherrez**
 
-Ingeniería en Tecnologías de la Información
+Desarrollo de Software
 
 ---
 
