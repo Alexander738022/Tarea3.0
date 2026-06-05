@@ -32,10 +32,6 @@ jobs:
         run: |
           pytest
 
-      - name: Ejecutar aplicacion
-        run: |
-          python app.py
-
       - name: Simular despliegue
         run: |
           echo "Aplicacion desplegada correctamente"
